@@ -1,6 +1,6 @@
 # Network Routing Protocols
 
-For project description see [project statement](https://github.com/afonsojorge15/multimedia-library-management-system/ProjectGuidelines.pdf)
+For project description see [project statement](https://github.com/afonsojorge15/computer-networks-algorithms/blob/master/Network%20Routing%20Protocols/project-reliable-xfer.pdf)
 
 ## Report
 
