@@ -1,6 +1,6 @@
 # File Transfer System
 
-For project description see [project statement](https://github.com/afonsojorge15/multimedia-library-management-system/ProjectGuidelines.pdf)
+For project description see [project statement](https://github.com/afonsojorge15/computer-networks-algorithms/blob/master/File%20Transfer%20System%20-%20UDP/project-routing-simulator.pdf)
 
 ## Report
 
